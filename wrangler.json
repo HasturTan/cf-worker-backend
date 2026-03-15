@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cf-worker-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cf66cd72-5c6b-4e2b-9fb6-f3f694c467fe",
+			"database_name": "cf-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
